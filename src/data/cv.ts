@@ -77,7 +77,7 @@ export const skills = [
 //		time: '',
 //		link: '',
 //		abstract: '',
-	},
+//	},
 	// {
 	// 	title: 'The Radiation of Uranium Compounds',
 	// 	authors: 'Marie Curie',

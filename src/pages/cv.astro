@@ -39,11 +39,11 @@ if (education.length > 0) {
 	})
 }
 
-if (publications.length > 0) {
-	orderedPublications = publications.sort((a, b) => {
-		return orderElement(a, b)
-	})
-}
+--if (publications.length > 0) {
+--	orderedPublications = publications.sort((a, b) => {
+--		return orderElement(a, b)
+--	})
+--}
 ---
 
 <Layout>
@@ -69,16 +69,16 @@ if (publications.length > 0) {
 		)
 	}
 
-	{
-		orderdEducations.length > 0 && (
-			<section class='mb-12'>
-				<h2 class='text-2xl font-bold mb-6 border-b pb-2'>
-					Last publications
-				</h2>
-				<PublicationsList elements={orderedPublications}/>
-			</section>
-		)
-	}
+	--{
+--		orderdEducations.length > 0 && (
+--			<section class='mb-12'>
+--				<h2 class='text-2xl font-bold mb-6 border-b pb-2'>
+--					Last publications
+--				</h2>
+--				<PublicationsList elements={orderedPublications}/>
+--			</section>
+--		)
+--	}
 
 	{
 		skills.length > 0 && (

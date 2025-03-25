@@ -69,7 +69,7 @@ export const skills = [
     },
 ];
 
-//export const publications = [
+export const publications = [
 //	{
 //		title: '',
 //		authors: '',
@@ -86,4 +86,4 @@ export const skills = [
 	// 	link: '#',
 	// 	abstract: 'Early research leading to the identification of uranium’s radioactive properties.',
 	// },
-//];
+];

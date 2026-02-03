@@ -19,7 +19,7 @@ export const experiences = [
 		title: '3D Developer',
 		location: 'Berlin',
 		description: '',
-	}
+	},
 	// {
 	// 	company: 'Radium Institute (Institut du Radium)',
 	// 	time: '1914 - 1934',
@@ -86,4 +86,4 @@ export const skills = [
 	// 	link: '#',
 	// 	abstract: 'Early research leading to the identification of uranium’s radioactive properties.',
 	// },
-//];
+];

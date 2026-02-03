@@ -1,6 +1,6 @@
 export const profile = {
 	fullName: 'Rouven',
-	title: 'Machine Learning Engineer',
+	title: '',
 	institute: '',
 	author_name: '', // Author name to be highlighted in the papers section
 	research_areas: [

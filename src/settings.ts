@@ -1,5 +1,5 @@
 export const profile = {
-	fullName: 'Rouven',
+	fullName: 'Your Name',
 	title: '',
 	institute: '',
 	author_name: '', // Author name to be highlighted in the papers section
@@ -11,9 +11,9 @@ export const profile = {
 // Set equal to an empty string to hide the icon that you don't want to display
 export const social = {
 	email: '',
-	linkedin: 'https://www.linkedin.com/in/rouven-reuter/',
-	x: '',
-	github: 'https://github.com/SmartMonkey-git',
+	linkedin: '',
+	x: 'https://www.x.com/',
+	github: '',
 	gitlab: '',
 	scholar: '',
 	inspire: '',

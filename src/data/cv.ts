@@ -17,8 +17,8 @@ export const experiences = [
 		company: 'Viscopic',
 		time: 'Jan 2018 - Sep. 2020',
 		title: '3D Developer',
-		location: 'Munich',
-		description: 'Developing 3D Applications for Customers using Unity.',
+		location: 'Berlin',
+		description: '',
 	}
 	// {
 	// 	company: 'Radium Institute (Institut du Radium)',
@@ -57,7 +57,7 @@ export const skills = [
     },
     {
         title: 'Data Science',
-        description: 'Plotly, Pandas, SciKit-learn, Jupyter, Pytorch, Numpy, Transformers, matplotlib, Seaborn',
+        description: 'Plotly, Pandas, sklearn, Jupyter, Pytorch, Numpy, Transformers, matplotlib, seaborn',
     },
     {
         title: 'Programming',

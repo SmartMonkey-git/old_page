@@ -34,5 +34,5 @@ export const template = {
 export const seo = {
 	default_title: 'Smart Monkey Blog',
 	default_description: '',
-	default_image: '/public/favicon.ico',
+	default_image: '/images/astro-academia.png',
 }

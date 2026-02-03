@@ -1,23 +1,9 @@
 export const experiences = [
 	{
-		company: 'Propeller Heads',
+		company: '',
 		time: '',
-		title: 'Machine Learning Engineer',
-		location: 'Berlin',
-		description: '',
-	},
-	{
-		company: 'Charité Berlin',
-		time: 'Sep. 2020 - Jun. 2021',
-		title: 'Master Thesis Research',
-		location: 'Berlin',
-		description: 'Conducted cutting‐edge research on AI‐driven acute kidney injury prediction, staying at the fore front of AI in health care',
-	},
-    {
-		company: 'Viscopic',
-		time: 'Jan 2018 - Sep. 2020',
-		title: '3D Developer',
-		location: 'Berlin',
+		title: '',
+		location: '',
 		description: '',
 	},
 	// {
@@ -31,10 +17,10 @@ export const experiences = [
 
 export const education = [
 	{
-		school: 'BHT Berlin',
-		time: '2019 - 2021',
-		degree: 'M.Sc in Media Informatics',
-		location: 'Berlin',
+		school: '',
+		time: '',
+		degree: '',
+		location: '',
 		description: '',
 	},
 	// {
@@ -47,36 +33,24 @@ export const education = [
 ];
 
 export const skills = [
-    {
-        title: 'DevOps',
-        description: 'AWS, Docker, Kubernetes, Terraform, Prefect, MLFlow, Github Actions',
-    },
-    {
-        title: 'Back-end',
-        description: 'Asyncio, MongoDB, Postgres, Redis, Kafka, SQL, Pytest, FastAPI, Pydantic',
-    },
-    {
-        title: 'Data Science',
-        description: 'Plotly, Pandas, sklearn, Jupyter, Pytorch, Numpy, Transformers, matplotlib, seaborn',
-    },
-    {
-        title: 'Programming',
-        description: 'Python, Rust, Bash',
-    },
-    {
-        title: 'Languages',
-        description: 'Deutsch, Englisch',
-    },
+	{
+		title: '',
+		description: '',
+	},
+	// {
+	// 	title: 'Experimental Techniques',
+	// 	description: 'Spectroscopy, Isolation of Radioactive Elements, Radiation Measurement',
+	// },
 ];
 
-//export const publications = [
-//	{
-//		title: '',
-//		authors: '',
-//		journal: '',
-//		time: '',
-//		link: '',
-//		abstract: '',
+export const publications = [
+	{
+		title: '',
+		authors: '',
+		journal: '',
+		time: '',
+		link: '',
+		abstract: '',
 	},
 	// {
 	// 	title: 'The Radiation of Uranium Compounds',

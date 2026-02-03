@@ -1,19 +1,20 @@
 export const profile = {
-	fullName: 'Your Name',
-	title: '',
-	institute: '',
-	author_name: '', // Author name to be highlighted in the papers section
+	fullName: 'Rouven Reuter',
+	title: 'PhD Candidate',
+	institute: 'Berlin Institute of Health of the Charité',
+	author_name: 'Rouven Reuter', // Author name to be highlighted in the papers section
 	research_areas: [
-		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
+		{ title: 'Phenopackets', description: 'Engineering tools to make phenopackets accessible', field: 'Bioinformatics' },
+        { title: 'Bipolar', description: 'Working with longitudinal Bipolar data.', field: 'Bioinformatics' },
 	],
 }
 
 // Set equal to an empty string to hide the icon that you don't want to display
 export const social = {
-	email: '',
-	linkedin: '',
-	x: 'https://www.x.com/',
-	github: '',
+	email: 'Rouven.Reuter@proton.me',
+	linkedin: 'https://www.linkedin.com/in/rouven-reuter/',
+	x: '',
+	github: 'https://github.com/SmartMonkey-git',
 	gitlab: '',
 	scholar: '',
 	inspire: '',

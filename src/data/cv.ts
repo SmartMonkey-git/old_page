@@ -1,11 +1,25 @@
 export const experiences = [
 	{
-		company: '',
+		company: 'Propeller Heads',
 		time: '',
-		title: '',
-		location: '',
+		title: 'Machine Learning Engineer',
+		location: 'Berlin',
 		description: '',
 	},
+	{
+		company: 'Charité Berlin',
+		time: 'Sep. 2020 - Jun. 2021',
+		title: 'Master Thesis Research',
+		location: 'Berlin',
+		description: 'Conducted cutting‐edge research on AI‐driven acute kidney injury prediction, staying at the fore front of AI in health care',
+	},
+    {
+		company: 'Viscopic',
+		time: 'Jan 2018 - Sep. 2020',
+		title: '3D Developer',
+		location: 'Munich',
+		description: 'Developing 3D Applications for Customers using Unity.',
+	}
 	// {
 	// 	company: 'Radium Institute (Institut du Radium)',
 	// 	time: '1914 - 1934',
@@ -17,10 +31,10 @@ export const experiences = [
 
 export const education = [
 	{
-		school: '',
-		time: '',
-		degree: '',
-		location: '',
+		school: 'BHT Berlin',
+		time: '2019 - 2021',
+		degree: 'M.Sc in Media Informatics',
+		location: 'Berlin',
 		description: '',
 	},
 	// {
@@ -33,25 +47,37 @@ export const education = [
 ];
 
 export const skills = [
-	{
-		title: '',
-		description: '',
-	},
-	// {
-	// 	title: 'Experimental Techniques',
-	// 	description: 'Spectroscopy, Isolation of Radioactive Elements, Radiation Measurement',
-	// },
+    {
+        title: 'DevOps',
+        description: 'AWS, Docker, Kubernetes, Terraform, Prefect, MLFlow, Github Actions',
+    },
+    {
+        title: 'Back-end',
+        description: 'Asyncio, MongoDB, Postgres, Redis, Kafka, SQL, Pytest, FastAPI, Pydantic',
+    },
+    {
+        title: 'Data Science',
+        description: 'Plotly, Pandas, SciKit-learn, Jupyter, Pytorch, Numpy, Transformers, matplotlib, Seaborn',
+    },
+    {
+        title: 'Programming',
+        description: 'Python, Rust, Bash',
+    },
+    {
+        title: 'Languages',
+        description: 'German, English',
+    },
 ];
 
 export const publications = [
-	{
-		title: '',
-		authors: '',
-		journal: '',
-		time: '',
-		link: '',
-		abstract: '',
-	},
+//	{
+//		title: '',
+//		authors: '',
+//		journal: '',
+//		time: '',
+//		link: '',
+//		abstract: '',
+//	},
 	// {
 	// 	title: 'The Radiation of Uranium Compounds',
 	// 	authors: 'Marie Curie',

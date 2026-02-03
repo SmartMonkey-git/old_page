@@ -65,7 +65,7 @@ export const skills = [
     },
     {
         title: 'Languages',
-        description: 'German, English',
+        description: 'Deutsch, Englisch',
     },
 ];
 

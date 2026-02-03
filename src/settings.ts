@@ -32,7 +32,7 @@ export const template = {
 }
 
 export const seo = {
-	default_title: 'Smart Monkey Blog',
-	default_description: '',
+	default_title: 'Astro Academia',
+	default_description: 'Astro Academia is a template for academic websites.',
 	default_image: '/images/astro-academia.png',
 }
